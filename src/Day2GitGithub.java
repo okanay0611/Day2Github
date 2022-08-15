@@ -15,5 +15,6 @@ public class Day2GitGithub {
 
     public static void main(String[] args) {
         System.out.println("github ı da ögrendim");
+        System.out.println("github ı da ögrendim2");
     }
 }
